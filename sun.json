@@ -1,0 +1,382 @@
+{
+  "id": "sun-zrkrlc",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@zrkrlc Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_eeefbc39b004",
+    "display_name": "zrkrlc",
+    "user_id": "@zrkrlc",
+    "description": "Community Archive-derived proof-of-search sun for @zrkrlc.",
+    "document_count": 8113,
+    "word_count": 136405,
+    "active_days": 1274,
+    "emissions": [
+      "Time",
+      "Don",
+      "Know",
+      "Think",
+      "Really",
+      "Thing"
+    ],
+    "generated_at": "2026-06-28T14:47:45.030942+00:00",
+    "color": "#f59e0b",
+    "mass": 11.823
+  },
+  "planets": [
+    {
+      "id": "planet_955cd0a0b355",
+      "name": "Time",
+      "summary": "Archive cluster around time: 7065 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "visakanv",
+        "now",
+        "nobu_hibiki",
+        "here"
+      ],
+      "artifacts": [
+        {
+          "id": "art_89a90663faba",
+          "title": "Time receipt from 2024-05-24",
+          "excerpt": "i, at the tender age of 28, have found myself in charge of a research lab* https://t.co/JG7x9e3x4s",
+          "source_document_id": "1793993843194614075",
+          "timestamp": "2024-05-24T13:13:57+00:00",
+          "url": "https://x.com/zrkrlc/status/1793993843194614075",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, visakanv, now, nobu_hibiki."
+        },
+        {
+          "id": "art_3621b33ad4a5",
+          "title": "Time receipt from 2022-04-23",
+          "excerpt": "past trauma in previous relationships explains, but does not justify, withholding trust from your current partner",
+          "source_document_id": "1517864623076425728",
+          "timestamp": "2022-04-23T13:55:01+00:00",
+          "url": "https://x.com/zrkrlc/status/1517864623076425728",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, visakanv, now, nobu_hibiki."
+        },
+        {
+          "id": "art_29636eebbd1f",
+          "title": "Time receipt from 2022-02-18",
+          "excerpt": "you all deserve to be seen as you are, radiant and deserving of love. good night. https://t.co/UOr8g1cx6Y",
+          "source_document_id": "1494679465435095042",
+          "timestamp": "2022-02-18T14:25:29+00:00",
+          "url": "https://x.com/zrkrlc/status/1494679465435095042",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, visakanv, now, nobu_hibiki."
+        },
+        {
+          "id": "art_83572ac4a038",
+          "title": "Time receipt from 2023-09-26",
+          "excerpt": "eve of a visa appointment that's consumed 98% of my time and attention for the last 1.5 months\n\ni mean, look at that stack of papers\n\nthis is what you need to be able to visit the EU from the Philippines https://t.co/nuEs29u0Tf",
+          "source_document_id": "1706599712181428667",
+          "timestamp": "2023-09-26T09:20:53+00:00",
+          "url": "https://x.com/zrkrlc/status/1706599712181428667",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, visakanv, now, nobu_hibiki."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e4e79b841848",
+      "proof_score": 1,
+      "mass": 34.768,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_533fe82cbf87",
+      "name": "Don",
+      "summary": "Archive cluster around don: 254 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "think",
+        "want",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fe6d78578926",
+          "title": "Don receipt from 2024-08-18",
+          "excerpt": "just read scott's master/slave essay and idk what it is but i find his writing too 'slick' now, like his words don't seem to originate from someone who struggled through confusion",
+          "source_document_id": "1825138105617387894",
+          "timestamp": "2024-08-18T11:50:08+00:00",
+          "url": "https://x.com/zrkrlc/status/1825138105617387894",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_7dd80eac2473",
+          "title": "Don receipt from 2020-10-03",
+          "excerpt": "@sonyasupposedly isn't that uh a security flaw...\n\nlike, someone can pester you to do the things they don't want you to do until you're the sort of person they need you to be",
+          "source_document_id": "1312533615176081410",
+          "timestamp": "2020-10-03T23:22:54+00:00",
+          "url": "https://x.com/zrkrlc/status/1312533615176081410",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_1195e93b63c1",
+          "title": "Don receipt from 2022-07-24",
+          "excerpt": "milk + beer: 8 out of 10 kaicamp attendees don't hate it! https://t.co/e4fipX4oJk",
+          "source_document_id": "1551217488117272576",
+          "timestamp": "2022-07-24T14:47:24+00:00",
+          "url": "https://x.com/zrkrlc/status/1551217488117272576",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_75776d319e42",
+          "title": "Don receipt from 2023-06-29",
+          "excerpt": "@parafactual @4confusedemoji or rather, you don't think about songmaking while making a song: you think of the song\n\nyou don't introspect / figure our your somatic response to an action, you do / become the action\n\nelse you make progress in your inner life but leave the outer world unchanged",
+          "source_document_id": "1674420978997395456",
+          "timestamp": "2023-06-29T14:14:05+00:00",
+          "url": "https://x.com/zrkrlc/status/1674420978997395456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_414d8c7daf8d",
+      "proof_score": 0.904,
+      "mass": 26.666,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_86d9bb463e75",
+      "name": "Know",
+      "summary": "Archive cluster around know: 199 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "want",
+        "really",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_faf3b04e3020",
+          "title": "Know receipt from 2023-09-16",
+          "excerpt": "does anyone know any other artist who paints like this? like, confident, vibrant use of colours with highly defined lines https://t.co/tc9u9nQHq6",
+          "source_document_id": "1702874556602446309",
+          "timestamp": "2023-09-16T02:38:26+00:00",
+          "url": "https://x.com/zrkrlc/status/1702874556602446309",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, really."
+        },
+        {
+          "id": "art_87146c69965e",
+          "title": "Know receipt from 2022-09-11",
+          "excerpt": "is it an infohazard to know that your SO is almost always going to be happier with someone else?",
+          "source_document_id": "1569014938953486338",
+          "timestamp": "2022-09-11T17:28:06+00:00",
+          "url": "https://x.com/zrkrlc/status/1569014938953486338",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, really."
+        },
+        {
+          "id": "art_8f0d4d86b64e",
+          "title": "Know receipt from 2023-03-07",
+          "excerpt": "@SEthanMilne @frances__lorenz idk i know a lot of EAs who wouldn't pass the intellectual turing test on the AGI doom case",
+          "source_document_id": "1632923254754250752",
+          "timestamp": "2023-03-07T01:56:56+00:00",
+          "url": "https://x.com/zrkrlc/status/1632923254754250752",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, really."
+        },
+        {
+          "id": "art_863c2fec28f8",
+          "title": "Know receipt from 2023-06-21",
+          "excerpt": "nobu is shaping up to be one of the best event organisers i know (next stage: in SEApot, then of his generation)\n\nif you haven't attended a nobuparty, you are missing out period https://t.co/jxlBdSPI2L",
+          "source_document_id": "1671495851842105344",
+          "timestamp": "2023-06-21T12:30:40+00:00",
+          "url": "https://x.com/zrkrlc/status/1671495851842105344",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f4fecc651bff",
+      "proof_score": 0.88,
+      "mass": 25.744,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_caf6d3393d03",
+      "name": "Think",
+      "summary": "Archive cluster around think: 221 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "thing",
+        "better",
+        "good"
+      ],
+      "artifacts": [
+        {
+          "id": "art_472f640a64bc",
+          "title": "Think receipt from 2024-07-17",
+          "excerpt": "the more i think about this, the more it feels true\n\nno one gives a shit unless you do something cool https://t.co/KwpCNqmAGI",
+          "source_document_id": "1813523290666991710",
+          "timestamp": "2024-07-17T10:37:00+00:00",
+          "url": "https://x.com/zrkrlc/status/1813523290666991710",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, thing, better."
+        },
+        {
+          "id": "art_fea5a317685c",
+          "title": "Think receipt from 2022-02-19",
+          "excerpt": "@xsphi say more? instead of foundations, i like to think of them as entrances\n\nbut some fields (e.g., math) are still cumulative enough that you have to choose one or else you'll find it hard to reach the top of the building",
+          "source_document_id": "1494826400498712576",
+          "timestamp": "2022-02-19T00:09:21+00:00",
+          "url": "https://x.com/zrkrlc/status/1494826400498712576",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, thing, better."
+        },
+        {
+          "id": "art_5098d02fed71",
+          "title": "Think receipt from 2020-03-07",
+          "excerpt": "@eriktorenberg Here's the essence theory of comedy:\n\n1) Playfulness, a context of safety and ease\n\n2) Incongruity, or something that makes you think \"Huh?\" or \"Where is this leading to?\"\n\n3) Unexpectedness, i.e. the punchline\n\nIn this specific order.",
+          "source_document_id": "1236172029465784322",
+          "timestamp": "2020-03-07T06:09:13+00:00",
+          "url": "https://x.com/zrkrlc/status/1236172029465784322",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, thing, better."
+        },
+        {
+          "id": "art_c2b62323bd27",
+          "title": "Think receipt from 2023-12-17",
+          "excerpt": "i think, what i really want is just enough power to protect the people i love",
+          "source_document_id": "1736411836935967207",
+          "timestamp": "2023-12-17T15:43:37+00:00",
+          "url": "https://x.com/zrkrlc/status/1736411836935967207",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, thing, better."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2f4728635f64",
+      "proof_score": 0.89,
+      "mass": 26.0,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_94964ce89c1f",
+      "name": "Really",
+      "summary": "Archive cluster around really: 191 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "good",
+        "never",
+        "things",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_887443d170ef",
+          "title": "Really receipt from 2024-05-24",
+          "excerpt": "so where? who said i could do this?\n\nthe easy cop out answer is that most people could have done what i did, but they just _didn't_. a lifetime of being really good at achieving things, ie a life i was as far away as possible from leading, opens a lot of doors",
+          "source_document_id": "1793993855618154873",
+          "timestamp": "2024-05-24T13:14:00+00:00",
+          "url": "https://x.com/zrkrlc/status/1793993855618154873",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, never, things."
+        },
+        {
+          "id": "art_9e98e5b27d7f",
+          "title": "Really receipt from 2023-11-05",
+          "excerpt": "@BecomingCritter you did really well ❤️‍🩹",
+          "source_document_id": "1721195739114557534",
+          "timestamp": "2023-11-05T16:00:17+00:00",
+          "url": "https://x.com/zrkrlc/status/1721195739114557534",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, never, things."
+        },
+        {
+          "id": "art_30f4c9f11ae2",
+          "title": "Really receipt from 2022-09-07",
+          "excerpt": "the college of science library. spent the last of my formative years in my fave spot behind one of the shelves containing discrete math books (so no one really visited the area lol) https://t.co/Tfc9V51k0I",
+          "source_document_id": "1567444150064398336",
+          "timestamp": "2022-09-07T09:26:21+00:00",
+          "url": "https://x.com/zrkrlc/status/1567444150064398336",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, never, things."
+        },
+        {
+          "id": "art_39a365ba335b",
+          "title": "Really receipt from 2021-06-26",
+          "excerpt": "really serious about this\n\nwilling to give you my life savings + work on whatever project you need help with in exchange for two shots of pfizer/moderna/anything decent, delivered in usable condition\n\njust dm me",
+          "source_document_id": "1408699860119736321",
+          "timestamp": "2021-06-26T08:13:13+00:00",
+          "url": "https://x.com/zrkrlc/status/1408699860119736321",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, never, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_13e01ff921a1",
+      "proof_score": 0.876,
+      "mass": 25.63,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_79524b330924",
+      "name": "Thing",
+      "summary": "Archive cluster around thing: 183 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "thing",
+        "work",
+        "most",
+        "see",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8bb72387459e",
+          "title": "Thing receipt from 2019-12-29",
+          "excerpt": "If you're obsessed about an idea or a thing or a bus ticket and you're having trouble pursuing it, feel free to DM me for open-ended consultation.\n\nNo fees. Just wanna see if we're all having similar blocks and if something can be done about it.",
+          "source_document_id": "1211180916380332033",
+          "timestamp": "2019-12-29T07:03:27+00:00",
+          "url": "https://x.com/zrkrlc/status/1211180916380332033",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, work, most, see."
+        },
+        {
+          "id": "art_b957bf69fc5d",
+          "title": "Thing receipt from 2022-09-07",
+          "excerpt": "@nosilverv we have a Thing brewing in the locus of singapore, indonesia, malaysia, australia, and the philippines",
+          "source_document_id": "1567536176839675904",
+          "timestamp": "2022-09-07T15:32:02+00:00",
+          "url": "https://x.com/zrkrlc/status/1567536176839675904",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, work, most, see."
+        },
+        {
+          "id": "art_d0fca71e4e20",
+          "title": "Thing receipt from 2024-05-10",
+          "excerpt": "what &lt;$50 thing can i buy that would make a massive difference in a research office?",
+          "source_document_id": "1788893480120623216",
+          "timestamp": "2024-05-10T11:26:56+00:00",
+          "url": "https://x.com/zrkrlc/status/1788893480120623216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, work, most, see."
+        },
+        {
+          "id": "art_ac18a86f47d0",
+          "title": "Thing receipt from 2020-06-23",
+          "excerpt": "@patio11 The trouble with NYT is that they refused to budge on the pseudonimity issue. https://t.co/b68oSXgTD2\n\nIt’s one thing to have different expectations. It’s another thing to basically say “yep we’re exposing you to the wolves and you better be ok with it” https://t.co/BiStLNbqse",
+          "source_document_id": "1275348814900027393",
+          "timestamp": "2020-06-23T08:43:46+00:00",
+          "url": "https://x.com/zrkrlc/status/1275348814900027393",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, work, most, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bf23ebe13931",
+      "proof_score": 0.871,
+      "mass": 25.531,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
